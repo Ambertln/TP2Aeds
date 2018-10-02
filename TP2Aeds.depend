@@ -1,7 +1,18 @@
 # depslib dependency file v1.0
-1538481155 source:c:\users\aluno\desktop\tp2aeds\tp2aeds\permuta.c
+1538481329 source:c:\users\aluno\desktop\tp2aeds\tp2aeds\permuta.c
 	<stdio.h>
 	"Permuta.h"
 
 1538481155 c:\users\aluno\desktop\tp2aeds\tp2aeds\permuta.h
+
+1538483598 source:c:\users\aluno\desktop\tp2aeds\tp2aeds\preenche.c
+	"preenche.h"
+
+1538483251 c:\users\aluno\desktop\tp2aeds\tp2aeds\preenche.h
+
+1538483625 source:c:\users\aluno\desktop\tp2aeds\tp2aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Permuta.h"
+	"preenche.h"
 
